@@ -8,7 +8,7 @@
 </p>
 
 ```bash
-$ whoami
+$ whoamI
 > venu-exe666
 
 $ focus
