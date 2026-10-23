@@ -15,7 +15,7 @@ Secure systems. Modern infrastructure. Code that ships.
 Cybersecurity   Cloud Engineering   Software Development   Automation
 02 // TOOLKIT
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,linux,docker,aws,git,github,vscode&theme=dark" alt="Development and infrastructure tools" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,linux,docker,aws,github,vscode&theme=dark" alt="Development and infrastructure tools" />
 </p>
 
 03 // REPOSITORIES
