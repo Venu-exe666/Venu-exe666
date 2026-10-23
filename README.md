@@ -1,5 +1,5 @@
 <div align="center">
- <img src="./banner.png" alt="VENU.EXE terminal-style profile banner" width="100%" />
+ <img src="./baner.png" alt="VENU.EXE terminal-style profile banner" width="100%" />
 </div>
 
 
