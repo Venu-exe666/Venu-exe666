@@ -35,6 +35,8 @@
 
 <br><br>
 
+
 <p align="center">
-  <code><strong> BUILD. SECURE. DEPLOY.</strong></code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=850&height=55&lines=VENU.EXE+%2F%2F+BUILD.+SECURE.+DEPLOY.;CYBERSECURITY+%7C+CLOUD+ENGINEERING;SYSTEM+ENGINEERING+%7C+DEVSECOPS" alt="Animated Typing Text" />
 </p>
+  
