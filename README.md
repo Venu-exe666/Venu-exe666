@@ -12,10 +12,6 @@
 
 <br>
 
-<p align="center">
-  <strong>Cybersecurity</strong> |
-  <strong>Cloud Engineering</strong>
-</p>
 
 <br>
 
@@ -40,5 +36,5 @@
 <br><br>
 
 <p align="center">
-  <code><strong>VENU.EXE // BUILD. SECURE. DEPLOY.</strong></code>
+  <code><strong> BUILD. SECURE. DEPLOY.</strong></code>
 </p>
