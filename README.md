@@ -40,5 +40,22 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=30a1ad&center=true&vCenter=true&width=850&height=55&lines=BUILD_SECURE_DEPLOY;CYBERSECURITY+%7C+CLOUD+ENGINEERING;SYSTEM+ENGINEERING+%7C+DEVSECOPS" alt="Animated Typing Text" />
 </p>
+
+<br><br>
+
+
+<h2 align="center">🐍 My GitHub Contributions</h2>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Venu-exe666/Venu-exe666/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Venu-exe666/Venu-exe666/output/github-snake.svg">
+    <img alt="Snake Animation"
+      src="https://raw.githubusercontent.com/Venu-exe666/Venu-exe666/output/github-snake.svg">
+  </picture>
+</div>
+
   
   
