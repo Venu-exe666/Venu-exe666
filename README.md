@@ -44,18 +44,7 @@
 <br><br>
 
 
-<h2 align="center">🐍 My GitHub Contributions</h2>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Venu-exe666/Venu-exe666/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Venu-exe666/Venu-exe666/output/github-snake.svg">
-    <img alt="Snake Animation"
-      src="https://raw.githubusercontent.com/Venu-exe666/Venu-exe666/output/github-snake.svg">
-  </picture>
-</div>
 
   
   
